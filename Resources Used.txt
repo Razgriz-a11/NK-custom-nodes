@@ -1,0 +1,3 @@
+Checkpoint: Secrets of Anubis XL [tensor.art]
+
+LoRA: Galakkz XL [civitai.com]
